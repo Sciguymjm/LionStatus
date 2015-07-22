@@ -1,6 +1,8 @@
 # LionStatus
 A simple and extensible status page written in Python.
 
+![](http://i.imgur.com/iYMT0zD.png)
+
 # Setup
 
 ## Requirements:
